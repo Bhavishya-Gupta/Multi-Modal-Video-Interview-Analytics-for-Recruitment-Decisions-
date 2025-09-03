@@ -4,8 +4,6 @@
 
 *Revolutionizing recruitment with AI-powered multi-modal analysis*
 
-[View Demo](#-demo) • [Report Bug](https://github.com/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-/issues) • [Request Feature](https://github.com/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-/issues)
-
 </div>
 
 ---
