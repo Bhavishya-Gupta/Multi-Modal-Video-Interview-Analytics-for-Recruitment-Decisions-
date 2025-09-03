@@ -2,11 +2,6 @@
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-)
-![GitHub license](https://img.shields.io/github/license/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-)
-
 *Revolutionizing recruitment with AI-powered multi-modal analysis*
 
 [View Demo](#-demo) • [Report Bug](https://github.com/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-/issues) • [Request Feature](https://github.com/Bhavishya-Gupta/Multi-Modal-Video-Interview-Analytics-for-Recruitment-Decisions-/issues)
